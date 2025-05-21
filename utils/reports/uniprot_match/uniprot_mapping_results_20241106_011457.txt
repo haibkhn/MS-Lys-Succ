@@ -1,0 +1,992 @@
+UniProt ID Mapping Results
+==================================================
+
+Successful Matches:
+--------------------
+Original Query ID: P0A901
+UniProt ID: P0A901
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P09030
+UniProt ID: P09030
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P06996
+UniProt ID: P06996
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P17854
+UniProt ID: P17854
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AEI1
+UniProt ID: P0AEI1
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A884
+UniProt ID: P0A884
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AFP6
+UniProt ID: P0AFP6
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P21362
+UniProt ID: P21362
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P23827
+UniProt ID: P23827
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0CE49
+UniProt ID: P0CE49
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0ADS9
+UniProt ID: P0ADS9
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P77804
+UniProt ID: P77804
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A8V0
+UniProt ID: P0A8V0
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P32662
+UniProt ID: P32662
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0ABT2
+UniProt ID: P0ABT2
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0ACM2
+UniProt ID: P0ACM2
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P64612
+UniProt ID: P64612
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A761
+UniProt ID: P0A761
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9M8
+UniProt ID: P0A9M8
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9N4
+UniProt ID: P0A9N4
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P18196
+UniProt ID: P18196
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A8M6
+UniProt ID: P0A8M6
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P60757
+UniProt ID: P60757
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AGB0
+UniProt ID: P0AGB0
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9P6
+UniProt ID: P0A9P6
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0ABA4
+UniProt ID: P0ABA4
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9Q5
+UniProt ID: P0A9Q5
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AEW6
+UniProt ID: P0AEW6
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AEB2
+UniProt ID: P0AEB2
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9S3
+UniProt ID: P0A9S3
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0AG82
+UniProt ID: P0AG82
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0A9H7
+UniProt ID: P0A9H7
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P0ACD4
+UniProt ID: P0ACD4
+Organism: Escherichia coli (strain K12)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P04908
+UniProt ID: P04908
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q14847
+UniProt ID: Q14847
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P62888
+UniProt ID: P62888
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P09382
+UniProt ID: P09382
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P54136
+UniProt ID: P54136
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P21291
+UniProt ID: P21291
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P16401
+UniProt ID: P16401
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9UNM6-2
+UniProt ID: Q9UNM6-2
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P62306
+UniProt ID: P62306
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P54920
+UniProt ID: P54920
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P62701
+UniProt ID: P62701
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P84090
+UniProt ID: P84090
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9UMS4
+UniProt ID: Q9UMS4
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: O00410-3
+UniProt ID: O00410-3
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P08865
+UniProt ID: P08865
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q15691
+UniProt ID: Q15691
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P40121
+UniProt ID: P40121
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P13010
+UniProt ID: P13010
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q14247
+UniProt ID: Q14247
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q14204
+UniProt ID: Q14204
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P42167
+UniProt ID: P42167
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q99829
+UniProt ID: Q99829
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P05204
+UniProt ID: P05204
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P62280
+UniProt ID: P62280
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P34932
+UniProt ID: P34932
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q14980
+UniProt ID: Q14980
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9UHV9
+UniProt ID: Q9UHV9
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9NR31
+UniProt ID: Q9NR31
+Organism: Homo sapiens
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: A2AQN4
+UniProt ID: A2AQN4
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9DBE0
+UniProt ID: Q9DBE0
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9D379
+UniProt ID: Q9D379
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q91W43
+UniProt ID: Q91W43
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: F2Z456
+UniProt ID: F2Z456
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P11679
+UniProt ID: P11679
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P15105
+UniProt ID: P15105
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q99N92
+UniProt ID: Q99N92
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q99PG0
+UniProt ID: Q99PG0
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9CZ42
+UniProt ID: Q9CZ42
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9D6J6
+UniProt ID: Q9D6J6
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9DCJ5
+UniProt ID: Q9DCJ5
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9DCS9
+UniProt ID: Q9DCS9
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9ERS2
+UniProt ID: Q9ERS2
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q9R0N0
+UniProt ID: Q9R0N0
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q3U2P1
+UniProt ID: Q3U2P1
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q3U505
+UniProt ID: Q3U505
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q3ULU4
+UniProt ID: Q3ULU4
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: Q61335
+UniProt ID: Q61335
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P51855
+UniProt ID: P51855
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: A2AQR0
+UniProt ID: A2AQR0
+Organism: Mus musculus
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WLR5
+UniProt ID: P9WLR5
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WPE3
+UniProt ID: P9WPE3
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WHS7
+UniProt ID: P9WHS7
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WGA1
+UniProt ID: P9WGA1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: A5U4S3
+UniProt ID: A5U4S3
+Organism: Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WQB7
+UniProt ID: P9WQB7
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WJJ3
+UniProt ID: P9WJJ3
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: A5U5D8
+UniProt ID: A5U5D8
+Organism: Mycobacterium tuberculosis (strain ATCC 25177 / H37Ra)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WG55
+UniProt ID: P9WG55
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: O53203
+UniProt ID: O53203
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P95029
+UniProt ID: P95029
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WIV1
+UniProt ID: P9WIV1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: I6Y1G8
+UniProt ID: I6Y1G8
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WHP5
+UniProt ID: P9WHP5
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WG57
+UniProt ID: P9WG57
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WKK1
+UniProt ID: P9WKK1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WGY1
+UniProt ID: P9WGY1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WL27
+UniProt ID: P9WL27
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WQE1
+UniProt ID: P9WQE1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WIB7
+UniProt ID: P9WIB7
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WPA5
+UniProt ID: P9WPA5
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WQA1
+UniProt ID: P9WQA1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WMR1
+UniProt ID: P9WMR1
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P9WLG9
+UniProt ID: P9WLG9
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P39940
+UniProt ID: P39940
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P39938
+UniProt ID: P39938
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P40081
+UniProt ID: P40081
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P32445
+UniProt ID: P32445
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P43585
+UniProt ID: P43585
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P22943
+UniProt ID: P22943
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P35191
+UniProt ID: P35191
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P15625
+UniProt ID: P15625
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P07283
+UniProt ID: P07283
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P43555
+UniProt ID: P43555
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P43535
+UniProt ID: P43535
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P43593
+UniProt ID: P43593
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P05747
+UniProt ID: P05747
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P32454
+UniProt ID: P32454
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P32496
+UniProt ID: P32496
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P05030
+UniProt ID: P05030
+Organism: Saccharomyces cerevisiae (strain ATCC 204508 / S288c)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+Original Query ID: P71716
+UniProt ID: P71716
+Organism: Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)
+Match Type: exact_match
+
+Sequence Status: Exact match
+--------------------------------------------------
+
+
+Failed Matches:
+--------------------

@@ -1,0 +1,237 @@
+==============
+TEST POSITIVE
+Sequence Counts:
+------------------------------
+Q9UNM6-2: 1 sequences
+O00410-3: 1 sequences
+Q14204: 2 sequences
+P95029: 6 sequences
+
+Total sequences for listed IDs: 10
+==============
+TEST NEGATIVE
+Sequence Counts:
+------------------------------
+Q9UNM6-2: 23 sequences
+O00410-3: 59 sequences
+Q14204: 291 sequences
+P95029: 60 sequences
+
+Total sequences for listed IDs: 433
+==============
+TRAIN POSITIVE
+Sequence Counts:
+------------------------------
+P32176: 0 sequences
+P43897-2: 1 sequences
+Q9Y2Q3-2: 2 sequences
+Q96AB3-2: 1 sequences
+H0YB34: 0 sequences
+Q13907-2: 2 sequences
+Q9NYK5-2: 2 sequences
+Q9H2U2-2: 6 sequences
+P53621-2: 2 sequences
+Q9Y305-4: 1 sequences
+Q13057-2: 1 sequences
+Q9NVV4-2: 1 sequences
+O75027-2: 2 sequences
+Q6WCQ1-2: 1 sequences
+Q12904-2: 1 sequences
+E7EVA0: 2 sequences
+Q15149: 17 sequences
+Q14978-2: 1 sequences
+P45880-1: 2 sequences
+Q14697-2: 2 sequences
+P12532-2: 2 sequences
+P07900-2: 9 sequences
+P35520-2: 1 sequences
+P11413-2: 2 sequences
+P08195-4: 4 sequences
+P49321-3: 1 sequences
+P63241-2: 3 sequences
+P55327-3: 3 sequences
+H0YHG0: 0 sequences
+P00338-3: 12 sequences
+P61978-2: 5 sequences
+P55884-2: 1 sequences
+Q09666: 16 sequences
+Q15084-2: 3 sequences
+P61289-2: 1 sequences
+Q14315: 1 sequences
+Q5SZL2-4: 1 sequences
+P63000-2: 1 sequences
+Q9UHB6-4: 1 sequences
+Q9NVA2-2: 1 sequences
+P78527: 1 sequences
+Q13098-7: 1 sequences
+Q3UNX5-2: 2 sequences
+O08795-2: 1 sequences
+O08601-2: 5 sequences
+Q5SXR6: 2 sequences
+Q99K28-2: 2 sequences
+A2ASZ8-3: 1 sequences
+B7ZCJ1: 1 sequences
+Q5SWU9-2: 1 sequences
+Q91ZU6-4: 1 sequences
+G3UZM1: 1 sequences
+Q8CGP2-2: 1 sequences
+P11352: 0 sequences
+Q69ZP3-3: 1 sequences
+Q80VP1-2: 1 sequences
+Q99P30-2: 1 sequences
+Q9WU78-3: 1 sequences
+S7UWA6: 1 sequences
+B6KP07: 4 sequences
+V4YQK1: 3 sequences
+V4YZB2: 1 sequences
+V4Z4E7: 2 sequences
+V4Z7M7: 1 sequences
+V4ZKE2: 4 sequences
+S8EWT7: 1 sequences
+
+Total sequences for listed IDs: 156
+==============
+TRAIN NEGATIVE
+Sequence Counts:
+------------------------------
+P32176: 0 sequences
+P43897-2: 1 sequences
+Q9Y2Q3-2: 2 sequences
+Q96AB3-2: 1 sequences
+H0YB34: 0 sequences
+Q13907-2: 2 sequences
+Q9NYK5-2: 2 sequences
+Q9H2U2-2: 6 sequences
+P53621-2: 2 sequences
+Q9Y305-4: 1 sequences
+Q13057-2: 1 sequences
+Q9NVV4-2: 1 sequences
+O75027-2: 2 sequences
+Q6WCQ1-2: 1 sequences
+Q12904-2: 1 sequences
+E7EVA0: 2 sequences
+Q15149: 17 sequences
+Q14978-2: 1 sequences
+P45880-1: 2 sequences
+Q14697-2: 2 sequences
+P12532-2: 2 sequences
+P07900-2: 9 sequences
+P35520-2: 1 sequences
+P11413-2: 2 sequences
+P08195-4: 4 sequences
+P49321-3: 1 sequences
+P63241-2: 3 sequences
+P55327-3: 3 sequences
+H0YHG0: 0 sequences
+P00338-3: 12 sequences
+P61978-2: 5 sequences
+P55884-2: 1 sequences
+Q09666: 16 sequences
+Q15084-2: 3 sequences
+P61289-2: 1 sequences
+Q14315: 1 sequences
+Q5SZL2-4: 1 sequences
+P63000-2: 1 sequences
+Q9UHB6-4: 1 sequences
+Q9NVA2-2: 1 sequences
+P78527: 1 sequences
+Q13098-7: 1 sequences
+Q3UNX5-2: 2 sequences
+O08795-2: 1 sequences
+O08601-2: 5 sequences
+Q5SXR6: 2 sequences
+Q99K28-2: 2 sequences
+A2ASZ8-3: 1 sequences
+B7ZCJ1: 1 sequences
+Q5SWU9-2: 1 sequences
+Q91ZU6-4: 1 sequences
+G3UZM1: 1 sequences
+Q8CGP2-2: 1 sequences
+P11352: 0 sequences
+Q69ZP3-3: 1 sequences
+Q80VP1-2: 1 sequences
+Q99P30-2: 1 sequences
+Q9WU78-3: 1 sequences
+S7UWA6: 1 sequences
+B6KP07: 4 sequences
+V4YQK1: 3 sequences
+V4YZB2: 1 sequences
+V4Z4E7: 2 sequences
+V4Z7M7: 1 sequences
+V4ZKE2: 4 sequences
+S8EWT7: 1 sequences
+
+Total sequences for listed IDs: 156
+(bioinf) (base) hai@Hais-MBP LMSuccSite % python check_fasta.py data/train/fasta/negative_sites.fasta data/no_alphafold/train.txt 
+
+Sequence Counts:
+------------------------------
+P32176: 0 sequences
+P43897-2: 3 sequences
+Q9Y2Q3-2: 1 sequences
+Q96AB3-2: 0 sequences
+H0YB34: 0 sequences
+Q13907-2: 1 sequences
+Q9NYK5-2: 2 sequences
+Q9H2U2-2: 4 sequences
+P53621-2: 12 sequences
+Q9Y305-4: 4 sequences
+Q13057-2: 6 sequences
+Q9NVV4-2: 4 sequences
+O75027-2: 2 sequences
+Q6WCQ1-2: 6 sequences
+Q12904-2: 3 sequences
+E7EVA0: 20 sequences
+Q15149: 20 sequences
+Q14978-2: 7 sequences
+P45880-1: 2 sequences
+Q14697-2: 5 sequences
+P12532-2: 0 sequences
+P07900-2: 6 sequences
+P35520-2: 4 sequences
+P11413-2: 0 sequences
+P08195-4: 3 sequences
+P49321-3: 6 sequences
+P63241-2: 0 sequences
+P55327-3: 0 sequences
+H0YHG0: 0 sequences
+P00338-3: 5 sequences
+P61978-2: 4 sequences
+P55884-2: 6 sequences
+Q09666: 66 sequences
+Q15084-2: 5 sequences
+P61289-2: 3 sequences
+Q14315: 21 sequences
+Q5SZL2-4: 5 sequences
+P63000-2: 1 sequences
+Q9UHB6-4: 8 sequences
+Q9NVA2-2: 6 sequences
+P78527: 38 sequences
+Q13098-7: 5 sequences
+Q3UNX5-2: 4 sequences
+O08795-2: 1 sequences
+O08601-2: 3 sequences
+Q5SXR6: 8 sequences
+Q99K28-2: 4 sequences
+A2ASZ8-3: 4 sequences
+B7ZCJ1: 11 sequences
+Q5SWU9-2: 10 sequences
+Q91ZU6-4: 57 sequences
+G3UZM1: 17 sequences
+Q8CGP2-2: 3 sequences
+P11352: 0 sequences
+Q69ZP3-3: 0 sequences
+Q80VP1-2: 1 sequences
+Q99P30-2: 2 sequences
+Q9WU78-3: 3 sequences
+S7UWA6: 5 sequences
+B6KP07: 3 sequences
+V4YQK1: 4 sequences
+V4YZB2: 4 sequences
+V4Z4E7: 10 sequences
+V4Z7M7: 17 sequences
+V4ZKE2: 3 sequences
+S8EWT7: 18 sequences
+
+Total sequences for listed IDs: 486
+==============
