@@ -92,6 +92,9 @@ utils/
   - Each feature contains 33 values corresponding to the 33 amino acids
   - Lysine (K) is at the 17th position
 
+- **PLM features**: Protein Language Model features
+  - Each row is a sample, the first value is ID, the second value is the position of lysine (K), then follow by 1024 or 1280 values corresponding to the PLM embedding of that K position
+
 ### Model Performance
 
 The best performing model of the two-component model is the combination of sequence and GCN features (`2_two-component/0_seq_GCN`). The three-component model combines sequence, ProtT5 embeddings, and GCN features for enhanced prediction accuracy.
